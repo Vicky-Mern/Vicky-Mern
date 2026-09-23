@@ -1,240 +1,230 @@
 # 👋 Hi, I'm Vicky Kumar Singh
 
-### 💻 MERN Stack Developer | Full-Stack Developer | Backend Developer | Data Analyst
+### 🚀 MERN Stack Developer | Full-Stack Developer | Backend Developer
 
-🎓 **MCA Graduate (CGPA: 8.23)** | **B.Sc. in Mathematical & Computing Science**
+I build practical and user-focused web applications using **React.js, Node.js, Express.js, and MongoDB**.
 
-I'm an aspiring **MERN Stack Developer** focused on building practical, scalable, and user-friendly web applications using **MongoDB, Express.js, React.js, and Node.js**.
+My primary focus is **MERN Stack Development**, with **Python & Django** as an additional backend technology.
 
-I also have experience with **Python and Django** as an alternate backend technology, along with **SQL, MySQL, REST APIs, authentication, and database-driven application development**.
-
-Alongside software development, I have hands-on experience in **Data Analysis using Python, SQL, Excel, and Power BI**.
-
----
-
-## 🚀 About Me
-
-- 💻 Building full-stack web applications using the **MERN Stack**
-- ⚛️ Working with **React.js, Node.js, Express.js, and MongoDB**
-- 🔗 Developing **RESTful APIs and backend services**
-- 🔐 Implementing **JWT authentication and role-based authorization**
-- 🐍 Using **Python & Django** for backend development
-- 🗄️ Working with **MongoDB, MySQL, and SQL**
-- 💳 Integrating third-party services such as **Stripe**
-- 📊 Performing data analysis using **Python, Pandas, NumPy, SQL, and Power BI**
-- 🧠 Strong foundation in **DSA, OOP, DBMS, and problem solving**
-- 🔧 Using **Git & GitHub** for version control and project development
-- 🚀 Interested in building real-world software and continuously improving my development skills
+🎓 **MCA Graduate — CGPA 8.23**  
+🎓 **B.Sc. in Mathematical & Computing Science**
 
 ---
 
-# 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### 💻 Programming Languages
+I'm a **MERN Stack Developer** focused on building full-stack web applications, backend services, REST APIs, authentication systems, and database-driven applications.
 
-`JavaScript` `Python` `Java` `C` `C++` `PHP`
+I enjoy turning ideas into practical applications, solving technical problems, and continuously improving my development skills.
 
-### 🚀 MERN Stack
+### What I work with
 
-`MongoDB` `Express.js` `React.js` `Node.js`
+- ⚛️ React.js Frontend Development
+- 🟢 Node.js & Express.js Backend Development
+- 🍃 MongoDB & Mongoose
+- 🔗 RESTful API Development
+- 🔐 JWT Authentication & Authorization
+- 🧩 CRUD Operations & MVC Architecture
+- 🔄 Middleware & API Integration
+- 💳 Payment API Integration
+- 🐍 Python & Django
+- 🧪 API Testing with Postman
+- 🔧 Git & GitHub
 
-- Full-Stack Web Development
-- REST API Development
-- CRUD Operations
-- Authentication & Authorization
-- JWT Authentication
-- Database Integration
-- API Integration
+---
 
-### 🌐 Frontend Development
+# 🛠️ Tech Stack
 
-`React.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+### ⚛️ Frontend
 
-### ⚙️ Backend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Axios](https://img.shields.io/badge/Axios-0D1117?style=for-the-badge&logo=axios&logoColor=5A29E4)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-`Node.js` `Express.js` `Django` `REST APIs`
+---
 
-- Backend Application Development
-- RESTful API Development
-- Authentication & Authorization
-- Server-Side Programming
-- Database-Driven Applications
+### ⚙️ Backend
 
-### 🗄️ Databases
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B)
 
-`MongoDB` `MySQL` `SQL`
+---
 
-- Database Design
-- CRUD Operations
-- SQL Queries
-- Data Management
+### 🔗 Backend Concepts
 
-### 📊 Data Analysis & BI
+![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D1117?style=for-the-badge&logo=mongoose&logoColor=880000)
+![CRUD](https://img.shields.io/badge/CRUD-0D1117?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC_Architecture-0D1117?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-0D1117?style=for-the-badge)
 
-`Python` `Pandas` `NumPy` `SQL` `MySQL` `Power BI` `Excel`
+---
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Data Manipulation
-- Trend & Pattern Analysis
-- Data Visualization
-- Dashboard Development
-- Data-Driven Insights
+### 🗄️ Database
 
-### 📚 Core Computer Science
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-`Data Structures & Algorithms` `OOP` `DBMS` `Software Engineering` `Problem Solving`
+---
+
+### 💳 APIs & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![REST API](https://img.shields.io/badge/API_Integration-0D1117?style=for-the-badge)
+
+---
 
 ### 🔧 Tools
 
-`Git` `GitHub` `VS Code` `Postman`
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![npm](https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
 ## 🛒 E-Commerce Web Application
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Stripe`
+**MERN Stack | JWT | Stripe | REST APIs**
 
-- 🚀 Built a full-stack **MERN e-commerce application** with product browsing, search, cart, checkout, orders, and order tracking.
-- 🔐 Implemented **JWT-based authentication** and role-based authorization.
-- 👤 Developed separate functionality for **Customers and Admins**.
-- 💳 Integrated **Stripe payment processing**.
-- 🔗 Developed RESTful APIs for products, users, carts, and orders.
+A full-stack e-commerce application built using the MERN stack.
 
----
+### Key Features
 
-## 🩺 HealthBooker – Doctor Appointment System
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-- 🏥 Developed a full-stack healthcare platform for doctor discovery and appointment management.
-- 👨‍⚕️ Implemented separate workflows for **Patients, Doctors, and Admins**.
-- 🔐 Added JWT authentication and role-based access control.
-- 📅 Implemented appointment booking, status tracking, and appointment history.
-- 📊 Created an Admin Dashboard for managing users, doctors, applications, and appointments.
-- 🔗 Developed REST APIs for users, doctors, applications, and appointments.
+- 🛍️ Product browsing and search
+- 🛒 Shopping cart
+- 📦 Order management
+- 🔐 JWT-based authentication
+- 👤 Customer & Admin roles
+- 💳 Stripe payment integration
+- 🔗 RESTful APIs
+- 🍃 MongoDB database
 
 ---
 
-## 💳 Payment Management System
+## 🩺 HealthBooker — Doctor Appointment System
 
-**Tech Stack:** `Python` `Django` `MySQL` `Stripe`
+**React.js | Node.js | Express.js | MongoDB | JWT**
 
-- 💰 Developed a Django-based payment management application.
-- 🔐 Implemented authentication and secure access control.
-- 💳 Integrated Stripe for online payment processing.
-- 🗄️ Used MySQL for user, payment, and transaction data.
-- ⚙️ Implemented payment tracking and transaction workflows.
+A full-stack healthcare application for managing doctor appointments.
+
+### Key Features
+
+- 👨‍⚕️ Doctor profiles
+- 🔎 Doctor discovery
+- 📅 Appointment booking
+- 👤 Patient management
+- 🩺 Doctor dashboard
+- 🛡️ Admin dashboard
+- 🔐 JWT authentication
+- 🔑 Role-based authorization
+- 📊 Appointment management
+
+---
+
+## 📋 Task Management System
+
+**React.js | Node.js | Express.js | MongoDB | REST APIs**
+
+A full-stack task management application built using the MERN stack.
+
+### Key Features
+
+- ➕ Create tasks
+- ✏️ Update tasks
+- 🗑️ Delete tasks
+- 🔄 Task status management
+- 🔗 RESTful API integration
+- 🍃 MongoDB database
+- ⚛️ React-based frontend
 
 ---
 
 ## 🤖 AI Code Quality Checker
 
-**Tech Stack:** `Python` `AI APIs`
+**Python | AI APIs**
 
-- 🤖 Developed an AI-based application for analyzing source code.
-- 🔍 Provides automated feedback on code quality and potential issues.
-- 🧠 Explored AI-assisted software development and automated code analysis.
+An AI-assisted application designed to analyze source code and provide automated feedback.
 
----
+### Features
 
-## 🏏 IPL Winner Predictor
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-- 📊 Performed data preprocessing and exploratory analysis on IPL datasets.
-- 🔎 Analyzed historical match and team performance patterns.
-- 🤖 Developed a machine-learning model to predict match outcomes.
-- 🎯 Achieved approximately **80% prediction accuracy**.
-- 🏆 **1st Prize – Research Paper (IPL Winner Predictor)**
-
----
-
-## 📊 HR Employee Attrition Analysis
-
-**Tech Stack:** `Python` `SQL` `Power BI`
-
-- 📊 Analyzed **1,470 employee records** using Python and SQL.
-- 🔎 Performed exploratory analysis to identify patterns associated with employee attrition.
-- 📈 Built a Power BI dashboard containing **8+ visualizations and KPI cards**.
-- 💡 Presented workforce insights through interactive data visualizations.
-
----
-
-# 🎓 Education
-
-### 🎓 Master of Computer Applications (MCA)
-
-**Sagar Institute of Research & Technology**  
-**Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)**
-
-**CGPA: 8.23**
-
-### 🎓 B.Sc. in Mathematical & Computing Science
-
-**Completed**
+- 🔍 Code analysis
+- 🤖 AI-assisted code review
+- 📝 Automated feedback
+- 💡 Code improvement suggestions
 
 ---
 
 # 🎯 Career Focus
 
-My primary career goal is to work as a:
+My primary career goal is to work as a **MERN Stack / Full-Stack Developer**.
 
-- 💻 **MERN Stack Developer**
-- 🌐 **Full-Stack Developer**
-- ⚙️ **Backend Developer**
-- 📊 **Data Analyst**
+I'm interested in opportunities where I can:
 
-I'm particularly interested in opportunities where I can:
+- ⚛️ Build modern React applications
+- 🟢 Develop Node.js & Express.js backends
+- 🔗 Design and develop REST APIs
+- 🍃 Work with MongoDB and database-driven applications
+- 🔐 Implement authentication and authorization
+- 💳 Integrate third-party APIs and payment services
+- 🧩 Solve real-world software development problems
+- 🤝 Collaborate with development teams
+- 📚 Continue learning modern web technologies
 
-- Build real-world full-stack applications
-- Develop scalable REST APIs and backend services
-- Work with MongoDB, SQL, and other databases
-- Implement authentication and secure application workflows
-- Analyze data and create meaningful dashboards
-- Solve practical software and business problems
-- Learn new technologies and contribute to development teams
+### Secondary Backend
+
+🐍 **Python & Django**
+
+I also work with Python/Django as an additional backend technology.
 
 ---
 
-# 📈 Currently Learning
+# 📚 Currently Learning
 
-- 🚀 Advanced MERN Stack Development
-- ⚙️ Backend & REST API Architecture
-- 🐍 Django Backend Development
-- ☕ Java & Spring Boot
-- 🗄️ Database Design & Optimization
+- ⚛️ Advanced React.js
+- 🟢 Advanced Node.js & Express.js
+- 🔗 REST API Architecture
 - 🔐 Authentication & Authorization
+- 🍃 MongoDB & Database Design
+- 🧪 API Testing with Postman
+- ☁️ Application Deployment
+- 🐍 Django Backend Development
 - 🧠 Data Structures & Algorithms
-- 📊 Advanced Data Analysis
 - 🏗️ Software Engineering Best Practices
 
 ---
 
 # 🌐 Portfolio
 
-🚀 **Explore my projects, skills, and work:**
+### 🚀 Explore my projects and development work
 
-[Visit My Portfolio →](https://portfolio-wheat-seven-h1gi6o8tx.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wheat-seven-h1gi6o8txi.vercel.app)
 
 ---
 
 # 🤝 Let's Connect
 
-📧 **Email:** [vk0269584@gmail.com](mailto:vk0269584@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vicky--Mern-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vicky-Mern)
 
-💬 **WhatsApp:** [Message me](https://wa.me/918292200151)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
 
-🌐 **Portfolio:** [Visit Portfolio](https://portfolio-wheat-seven-h1gi6o8tx.vercel.app)
-
-💻 **GitHub:** [Vicky-Mern](https://github.com/Vicky-Mern)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vk0269584@gmail.com)
 
 ---
 
-## ⭐ Thanks for Visiting My Profile!
+### 💻 Build • Code • Learn • Improve
 
-Feel free to explore my repositories and projects.
-
-### 🚀 Build • Code • Analyze • Learn • Improve
+⭐ Thanks for visiting my profile!
